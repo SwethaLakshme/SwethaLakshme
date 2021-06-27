@@ -1,6 +1,6 @@
-### Hi there 👋
+<!--### Hi there 👋
 
-<!--
+
 **SwethaLakshme/SwethaLakshme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/SwethaLakshmeS" target="blank"><img src="https://img.shields.io/twitter/follow/SwethaLakshmeS?logo=twitter&style=for-the-badge" alt="SwethaLakshmeS" /></a> </p>
 
-- 🔭 I’m currently working on **Full stack Development**
+- 🔭 I’m currently working on **Frontend stack Development**
 
 - 🌱 I’m currently learning **Javascript**
 
