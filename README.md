@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SwethaLakshme&label=Profile%20views&color=0e75b6&style=flat" alt="SwethaLakshme" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SwethaLakshme" alt="SwethaLakshme" /></a> </p>
+<p align="left"> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SwethaLakshme" alt="SwethaLakshme" /></a> </p>
+</a> </p>
 
 <p align="left"> <a href="https://twitter.com/SwethaLakshmeS" target="blank"><img src="https://img.shields.io/twitter/follow/SwethaLakshmeS?logo=twitter&style=for-the-badge" alt="SwethaLakshmeS" /></a> </p>
 
