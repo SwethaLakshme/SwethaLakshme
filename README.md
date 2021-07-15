@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Swetha Lakshme S</h1>
-<h3 align="center">CSE student</h3>
+<h1 align="center">Hola 👋, I'm Swetha Lakshme S</h1>
+<p align="center">Code dreamer</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SwethaLakshme&label=Profile%20views&color=0e75b6&style=flat" alt="SwethaLakshme" /> </p>
 
