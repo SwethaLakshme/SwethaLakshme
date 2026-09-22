@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 <!--<p align="left"> <a href="https://twitter.com/SwethaLakshmeS" target="blank"><img src="https://img.shields.io/twitter/follow/SwethaLakshmeS?logo=twitter&style=for-the-badge" alt="SwethaLakshmeS" /></a> </p>-->
 
-- 🔭 I’m currently working on **Frontend stack Development**
+- 🔭 I’m currently working on **Wireless technologies**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **AI**
 
-- 👯 I’m looking to collaborate on **Web development related stuff**
+- 👯 I’m looking to collaborate on **Python automation, web dev, AWS related projects**
 
 - 💬 Ask me anything
 
